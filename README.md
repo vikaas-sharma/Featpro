@@ -1,4 +1,6 @@
 Featpro is a blog app
+
+
 Landing page
 
 ![1](https://github.com/vikaas-sharma/Featpro/assets/134483699/f89dc5dc-1275-4757-a6a3-f5768a5e9333)
